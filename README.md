@@ -2,10 +2,6 @@
 
 # Hey, I'm Dakshanya Maddala 👋
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Machine+Learning+Engineer;Data+Scientist;AI+Researcher;Robotics+%7C+LLMs+%7C+AI+Agents;Computer+Vision+Enthusiast" />
-</p>
-
 ### Machine Learning Engineer • Data Scientist • AI Researcher
 
 Building intelligent systems at the intersection of
@@ -24,6 +20,10 @@ Building intelligent systems at the intersection of
 </a>
 
 </div>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Duck-exe&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
+</p>
 
 ---
 
