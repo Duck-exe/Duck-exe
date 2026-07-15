@@ -162,7 +162,7 @@ A modular agent framework integrating retrieval, reasoning, tool invocation and 
 
 ---
 
-## 📖 Research and Publications
+## 📚 Research & Publications
 
 My research focuses on:
 
@@ -173,24 +173,17 @@ My research focuses on:
 * Optimization and network simulation
 * AI-enabled networking and robotic systems
 
-## 📚 Research & Publications
-
 <div align="center">
 
 | Year | Publication |
 |:---:|:---|
 | **2026** | 📄 [Secure Connected *k*-Coverage in Spatial Wireless Sensor Networks](https://ieeexplore.ieee.org/abstract/document/11532813) |
-| **2025** | 📄 [SITRUS: Simulation and Analysis of Irregular Tessellated Wireless Sensor Networks Using Cooja](https://ieeexplore.ieee.org/abstract/document/11159227) |
+| **2026** | 📄 [SITRUS: Simulation and Analysis of Irregular Tessellated Wireless Sensor Networks Using Cooja](https://ieeexplore.ieee.org/abstract/document/11159227) |
 | **2024** | 📄 [Irregular Honeycomb Network: Revolutionizing *k*-Coverage in Spatial Wireless Sensor Networks](https://ieeexplore.ieee.org/abstract/document/10621539) |
 | **2024** | 📄 [HexTileConnect: Achieving Connected *k*-Coverage in Planar Wireless Sensor Networks Using Irregular Hexagonal Tessellation](https://ieeexplore.ieee.org/abstract/document/10776724) |
 
 </div>
 
-
-- 📄 **Secure Connected *k*-Coverage in Spatial Wireless Sensor Networks**
-- 📄 **SITRUS: Simulation and Analysis of Irregular Tessellated Wireless Sensor Networks Using Cooja**
-- 📄 **Irregular Honeycomb Network: Revolutionizing *k*-Coverage in Spatial Wireless Sensor Networks**
-- 📄 **HexTileConnect: Achieving Connected *k*-Coverage in Planar Wireless Sensor Networks Using Irregular Hexagonal Tessellation**
 ---
 
 ## 🚀 Current Focus
