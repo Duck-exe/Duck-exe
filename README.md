@@ -10,10 +10,10 @@ Building intelligent systems at the intersection of
 <br>
 
 <a href="mailto:maddaladakshanya@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  <img src="https://img.shields.io/badge/Outlook-Contact_Me-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white">
 </a>
-<a href="YOUR_LINKEDIN_URL">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+<a href="https://www.linkedin.com/in/dakshanya-maddala/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 <a href="https://github.com/Duck-exe">
   <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
@@ -42,14 +42,25 @@ Building intelligent systems at the intersection of
 
 <div align="center">
 
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-102230?style=for-the-badge\&logo=scikitlearn\&logoColor=F7931E)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-102230?style=for-the-badge&logo=scikitlearn&logoColor=F7931E)
+
 ![Artificial Intelligence](https://img.shields.io/badge/Artificial_Intelligence-412991?style=for-the-badge)
-![Data Science](https://img.shields.io/badge/Data_Science-150458?style=for-the-badge\&logo=jupyter\&logoColor=white)
-![AI Agents](https://img.shields.io/badge/AI_Agents-000000?style=for-the-badge\&logo=openai\&logoColor=white)
-![LLMs](https://img.shields.io/badge/Large_Language_Models-FFD21E?style=for-the-badge\&logo=huggingface\&logoColor=black)
-![Computer Vision](https://img.shields.io/badge/Computer_Vision-5C3EE8?style=for-the-badge\&logo=opencv\&logoColor=white)
-![Robotics](https://img.shields.io/badge/Robotics-22314E?style=for-the-badge\&logo=ros\&logoColor=white)
-![Optimization](https://img.shields.io/badge/Optimization-00599C?style=for-the-badge)
+
+![Data Science](https://img.shields.io/badge/Data_Science-150458?style=for-the-badge&logo=jupyter&logoColor=white)
+
+![Generative AI](https://img.shields.io/badge/Generative_AI-FF6F61?style=for-the-badge)
+
+![AI Agents](https://img.shields.io/badge/AI_Agents-000000?style=for-the-badge&logo=openai&logoColor=white)
+
+![LLMs](https://img.shields.io/badge/Large_Language_Models-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+
+![RAG](https://img.shields.io/badge/RAG-00A86B?style=for-the-badge)
+
+![Computer Vision](https://img.shields.io/badge/Computer_Vision-5C3EE8?style=for-the-badge)
+
+![Robotics](https://img.shields.io/badge/Robotics-22314E?style=for-the-badge&logo=ros&logoColor=white)
+
+![Distributed Systems](https://img.shields.io/badge/Distributed_Systems-00599C?style=for-the-badge)
 
 </div>
 
@@ -154,25 +165,21 @@ My research focuses on:
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Duck-exe&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Dakshanya's GitHub statistics">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Duck-exe&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Duck-exe&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most-used languages">
-
-</div>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Duck-exe&theme=tokyonight&hide_border=true" alt="GitHub contribution streak">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Duck-exe&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
 
 </div>
 
 ---
 
-## 🏆 GitHub Achievements
+## 🚀 Current Focus
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Duck-exe&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" alt="GitHub trophies">
+🤖 AI Agents • 🧠 Large Language Models • 📷 Computer Vision
+
+⚡ Robotics • 📊 Data Science • 🌐 Distributed Systems
 
 </div>
 
@@ -198,11 +205,11 @@ I am interested in opportunities and collaborations involving:
 <div align="center">
 
 <a href="mailto:maddaladakshanya@gmail.com">
-  <img src="https://img.shields.io/badge/Email-maddaladakshanya%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  <img src="https://img.shields.io/badge/Outlook-Contact_Me-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white">
 </a>
 
 <a href="https://www.linkedin.com/in/dakshanya-maddala/">
-  <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
 <br><br>
