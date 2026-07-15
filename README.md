@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Dakshanya Maddala 👋
+# Hey, I'm Dakshanya Maddala 👋
 
 ### Machine Learning Engineer • Data Scientist • AI Researcher
 
@@ -195,9 +195,9 @@ My research focuses on:
 When I am away from research and coding, you can find me:
 
 * 🏊 Swimming
-* 🏸 Playing badminton
+* 🏸 Playing Badminton
 * 🚴 Cycling
-* 📖 Exploring emerging AI and robotics research
+* 📖 Exploring emerging AI and Robotics research
 
 ---
 
