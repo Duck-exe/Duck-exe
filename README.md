@@ -172,7 +172,7 @@ My research focuses on:
 ### Selected Publications
 
 * **Secure Connected k-Coverage in Spatial Wireless Sensor Networks** — IEEE MENACOMM 2026
-* **SITRUS: Simulation and Analysis of Irregular Tessellated Wireless Sensor Networks Using Cooja**
+* **SITRUS: Simulation and Analysis of Irregular Tessellated Wireless Sensor Networks Using Cooja** — IEEE ACCESS 2026
 * **Irregular Honeycomb Network: Revolutionizing k-Coverage in Spatial Wireless Sensor Networks** — IEEE DCOSS-IoT 2024
 * **HexTileConnect: Achieving Connected k-Coverage in Planar Wireless Sensor Networks** — IEEE ICAIGE 2024
 
