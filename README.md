@@ -173,13 +173,26 @@ My research focuses on:
 * Optimization and network simulation
 * AI-enabled networking and robotic systems
 
-### Selected Publications
+## 📚 Research & Publications
 
-* **Secure Connected k-Coverage in Spatial Wireless Sensor Networks** — IEEE MENACOMM 2026
-* **SITRUS: Simulation and Analysis of Irregular Tessellated Wireless Sensor Networks Using Cooja** — IEEE ACCESS 2026
-* **Irregular Honeycomb Network: Revolutionizing k-Coverage in Spatial Wireless Sensor Networks** — IEEE DCOSS-IoT 2024
-* **HexTileConnect: Achieving Connected k-Coverage in Planar Wireless Sensor Networks** — IEEE ICAIGE 2024
+<div align="center">
 
+![IEEE MENACOMM](https://img.shields.io/badge/IEEE-MENACOMM_2026-00629B?style=for-the-badge)
+
+![IEEE Access](https://img.shields.io/badge/IEEE-Access_2025-00629B?style=for-the-badge)
+
+![IEEE DCOSS-IoT](https://img.shields.io/badge/IEEE-DCOSS--IoT_2024-00629B?style=for-the-badge)
+
+![IEEE ICAIGE](https://img.shields.io/badge/IEEE-ICAIGE_2024-00629B?style=for-the-badge)
+
+</div>
+
+<br>
+
+- 📄 **Secure Connected *k*-Coverage in Spatial Wireless Sensor Networks**
+- 📄 **SITRUS: Simulation and Analysis of Irregular Tessellated Wireless Sensor Networks Using Cooja**
+- 📄 **Irregular Honeycomb Network: Revolutionizing *k*-Coverage in Spatial Wireless Sensor Networks**
+- 📄 **HexTileConnect: Achieving Connected *k*-Coverage in Planar Wireless Sensor Networks Using Irregular Hexagonal Tessellation**
 ---
 
 ## 🚀 Current Focus
