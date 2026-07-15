@@ -43,24 +43,18 @@ Building intelligent systems at the intersection of
 <div align="center">
 
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-102230?style=for-the-badge&logo=scikitlearn&logoColor=F7931E)
-
 ![Artificial Intelligence](https://img.shields.io/badge/Artificial_Intelligence-412991?style=for-the-badge)
-
 ![Data Science](https://img.shields.io/badge/Data_Science-150458?style=for-the-badge&logo=jupyter&logoColor=white)
-
-![Generative AI](https://img.shields.io/badge/Generative_AI-FF6F61?style=for-the-badge)
-
 ![AI Agents](https://img.shields.io/badge/AI_Agents-000000?style=for-the-badge&logo=openai&logoColor=white)
+![Large Language Models](https://img.shields.io/badge/LLMs-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 
-![LLMs](https://img.shields.io/badge/Large_Language_Models-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+<br>
 
 ![RAG](https://img.shields.io/badge/RAG-00A86B?style=for-the-badge)
-
 ![Computer Vision](https://img.shields.io/badge/Computer_Vision-5C3EE8?style=for-the-badge)
-
 ![Robotics](https://img.shields.io/badge/Robotics-22314E?style=for-the-badge&logo=ros&logoColor=white)
-
 ![Distributed Systems](https://img.shields.io/badge/Distributed_Systems-00599C?style=for-the-badge)
+![Generative AI](https://img.shields.io/badge/Generative_AI-FF6F61?style=for-the-badge)
 
 </div>
 
@@ -106,8 +100,32 @@ Building intelligent systems at the intersection of
 </p>
 
 ---
+---
 
-## 🚀 Featured Work
+## 🐍 My Contribution Journey
+
+<div align="center">
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Duck-exe/Duck-exe/output/github-contribution-grid-snake-dark.svg"
+  >
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/Duck-exe/Duck-exe/output/github-contribution-grid-snake.svg"
+  >
+  <img
+    alt="GitHub contribution snake animation"
+    src="https://raw.githubusercontent.com/Duck-exe/Duck-exe/output/github-contribution-grid-snake.svg"
+  >
+</picture>
+
+</div>
+
+---
+
+## 🚀 Featured Projects
 
 ### 🤖 Robotic Reliability Intelligence
 
@@ -193,29 +211,6 @@ When I am away from research and coding, you can find me:
 * 🏸 Playing badminton
 * 🚴 Cycling
 * 📖 Exploring emerging AI and robotics research
-
----
-
-## 🐍 My Contribution Journey
-
-<div align="center">
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/Duck-exe/Duck-exe/output/github-contribution-grid-snake-dark.svg"
-  >
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/Duck-exe/Duck-exe/output/github-contribution-grid-snake.svg"
-  >
-  <img
-    alt="GitHub contribution snake animation"
-    src="https://raw.githubusercontent.com/Duck-exe/Duck-exe/output/github-contribution-grid-snake.svg"
-  >
-</picture>
-
-</div>
 
 ---
 
