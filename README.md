@@ -100,30 +100,6 @@ Building intelligent systems at the intersection of
 </p>
 
 ---
----
-
-## 🐍 My Contribution Journey
-
-<div align="center">
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/Duck-exe/Duck-exe/output/github-contribution-grid-snake-dark.svg"
-  >
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/Duck-exe/Duck-exe/output/github-contribution-grid-snake.svg"
-  >
-  <img
-    alt="GitHub contribution snake animation"
-    src="https://raw.githubusercontent.com/Duck-exe/Duck-exe/output/github-contribution-grid-snake.svg"
-  >
-</picture>
-
-</div>
-
----
 
 ## 🚀 Featured Projects
 
@@ -156,6 +132,29 @@ A simulation and analytical framework for sensor deployment in irregular environ
 A modular agent framework integrating retrieval, reasoning, tool invocation and memory for multi-step question answering and troubleshooting.
 
 **Technologies:** Python, Hugging Face, BM25, transformers, RAG, prompt engineering and AI agents
+
+---
+
+## 🐍 My Contribution Journey
+
+<div align="center">
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Duck-exe/Duck-exe/output/github-contribution-grid-snake-dark.svg"
+  >
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/Duck-exe/Duck-exe/output/github-contribution-grid-snake.svg"
+  >
+  <img
+    alt="GitHub contribution snake animation"
+    src="https://raw.githubusercontent.com/Duck-exe/Duck-exe/output/github-contribution-grid-snake.svg"
+  >
+</picture>
+
+</div>
 
 ---
 
