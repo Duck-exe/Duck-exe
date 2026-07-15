@@ -179,18 +179,6 @@ My research focuses on:
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Duck-exe&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Duck-exe&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
-
-</div>
-
----
-
 ## 🚀 Current Focus
 
 <div align="center">
