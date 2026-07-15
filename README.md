@@ -21,9 +21,9 @@ Building intelligent systems at the intersection of
 
 </div>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Duck-exe&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
-</p>
+</p> -->
 
 ---
 
